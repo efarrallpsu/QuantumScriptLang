@@ -11,7 +11,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 2. Quantum Control Structures:
 ```
-  {EDIT ME}
+  For all if statements, both statements will run simultaneously if the seconds part of the time is a multiple of 5. Randomly, depending on the state of the moon, the if statement will not exectue either the if or the else statement but instead repeat the last 10 lines of code.
 ```
 
 3. Schrödinger's Comments:
