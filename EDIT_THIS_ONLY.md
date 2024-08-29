@@ -6,7 +6,20 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 1. Variable Declaration Syntax:
 ```
-   {EDIT ME}
+   punctuation = [".", ",", "?", "...", "!", "@"]
+   chars = "abcdefghijklmnopqrstuvwxyz"
+
+   def declare() -> char:
+      var: char = ""
+
+      for _ in range(2):
+         p: str = random.choice(punctuation)
+         var.join(p)
+
+      idx: int = random.randint(0, 27)
+      unic: unicode = chars[idx].decode("utf-8")
+
+      return var + uni
 ```
 
 2. Quantum Control Structures:
