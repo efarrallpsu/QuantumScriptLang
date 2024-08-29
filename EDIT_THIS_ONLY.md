@@ -22,7 +22,12 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 4. Quantum Import System:
 ```
-   {EDIT ME}
+   {!~!~!~!:
+      <code review comments go in comparison brackets>,
+      <It's like Spanish dialogue but backward>,
+      <Don't forget the commas :)>
+   :!~!~!~!
+   }
 ```
 
 5. Code Review Annotation System:
