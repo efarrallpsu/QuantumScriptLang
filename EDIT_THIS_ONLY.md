@@ -39,6 +39,13 @@ Task: Create an if-else statement that has the possibility to execute both branc
 7. Quantum Compilation Uncertainty Principle:
 ```
    {EDIT ME}
+
+   Whenever one tries to compile the code, the compiler automatically decides that its not going to work and wont compile as long as the programmer stares at the 
+   screen and is hoping for/thinking the code will compile. Basically:
+    if hoping and ThereIsNoWayThisWorks:
+      compiled = False
+   else:
+      True
 ```
 
 ## Additional Guidelines
