@@ -37,7 +37,10 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 7. Quantum Compilation Uncertainty Principle:
 ```
-   {EDIT ME}
+   import numpy as np
+   x = np.random.normal(0,1)
+   if x > np.random:
+      work
 ```
 
 ## Additional Guidelines
