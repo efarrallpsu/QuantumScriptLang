@@ -6,7 +6,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 1. Variable Declaration Syntax:
 ```
-   {EDIT ME}
+   !assign! string newVar ^-^ "Hello World" 
 ```
 
 2. Quantum Control Structures:
