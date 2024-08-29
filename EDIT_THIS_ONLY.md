@@ -16,7 +16,7 @@ You are an AI language model tasked with creating example code for QuantumScript
 
 3. Schrödinger's Comments:
   ```
-   {EDIT ME}
+   {^}
 
   ```
 
